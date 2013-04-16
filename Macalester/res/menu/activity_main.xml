@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ribbon_mac_radio"
+        android:title="W M C N"
+        android:icon="@drawable/macradioicon"></item>
+    <item 
+        android:id="@+id/ribbon_mac_map"
+        android:title="Map of Mac"
+        android:icon="@drawable/macradioicon"></item>
+    <item
+        android:id="@+id/ribbon_mac_menu"
+        android:title="Mac Menu"
+        android:icon="@drawable/macradioicon"></item>
+    <item 
+        android:id="@+id/ribbon_mac_library"
+        android:title="Library"
+        android:icon="@drawable/macradioicon"></item>"
+</menu>
